@@ -205,7 +205,7 @@ html_sidebars = {
 #html_search_scorer = 'scorer.js'
 
 # Output file base name for HTML help builder.
-htmlhelp_basename = 'TsingBrickdoc'
+htmlhelp_basename = 'openSUSE-Virtualization-zh'
 
 # -- Options for LaTeX output ---------------------------------------------
 latex_engine = "xelatex"
@@ -236,7 +236,7 @@ latex_elements = {
 # (source start file, target name, title,
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
-  (master_doc, 'TsingBrick.tex', u'TsingBrick Documentation',
+  (master_doc, 'openSUSE-Virtualization-zh.tex', u'openSUSE 虚拟化指南',
    u'SUSE LLC 及贡献者', 'manual'),
 ]
 
@@ -266,7 +266,7 @@ latex_documents = [
 # One entry per manual page. List of tuples
 # (source start file, name, description, authors, manual section).
 man_pages = [
-    (master_doc, 'tsingbrick', u'TsingBrick Documentation',
+    (master_doc, 'openSUSE-Virtualization-zh', u'openSUSE 虚拟化指南',
      [author], 1)
 ]
 
@@ -280,8 +280,8 @@ man_pages = [
 # (source start file, target name, title, author,
 #  dir menu entry, description, category)
 texinfo_documents = [
-  (master_doc, 'TsingBrick', u'TsingBrick Documentation',
-   author, 'TsingBrick', 'One line description of project.',
+  (master_doc, 'openSUSE-Virtualization-zh', u'openSUSE 虚拟化指南',
+   author, 'openSUSE-Virtualization-zh', 'One line description of project.',
    'Miscellaneous'),
 ]
 
