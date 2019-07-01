@@ -1,7 +1,7 @@
 Readme
 ===============================
 
-该仓库是 opensuse 虚拟华指南 文档的中文翻译。原文请参考 `Virtualization Guide`_ 。
+该仓库是 opensuse 虚拟指南 文档的中文翻译。原文请参考 `Virtualization Guide`_ 。
 
 构建依赖
 -------------------------------
